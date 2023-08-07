@@ -1,0 +1,11 @@
+{
+	"name": "script-attack-ddos",
+	"version": "1.0.0",
+	"main": "startAttackDDoS.mjs",
+	"scripts": {
+		"start": "node startAttackDDoS.mjs"
+	},
+	"dependencies": {
+		"node-fetch": "^3.3.0"
+	}
+}
